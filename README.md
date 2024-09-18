@@ -1,5 +1,5 @@
 # esp32_bare_metal_4_lane_street_intersection
-A simulation of car traffic at a four-lane street intersection equipped with traffic lights is conducted using an 8x8 LED matrix to represent traffic flow, while an RGB LED module displays the traffic lights. All components are integrated with an ESP32 WROVER microcontroller, and cars are randomly generated across the four lanes. The red, yellow, and green lights are set to run for 5 seconds, 2 seconds, and 5 seconds, respectively. 
+A simulation of car traffic at a four-lane street intersection equipped with traffic lights is conducted using an 8x8 LED matrix to represent traffic flow, while an RGB LED module displays the traffic lights. All components are integrated with an ESP32 WROVER microcontroller, and cars are randomly generated across the four lanes. The red, yellow, and green lights are set to run for 5 seconds, 2 seconds, and 5 seconds, respectively. Implementation for bare metal and free rtos are provided.
 
 Components and wiring:
 - 1x ESP32 WROVER
